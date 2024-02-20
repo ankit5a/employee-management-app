@@ -37,7 +37,7 @@ The Employee Management System is a web application built using Angular, Spring 
 1. Clone the repository:
 
    ```
-   git clone https://github.com/ankit5a/employee-management.git
+   git clone https://github.com/ankit5a/employee-management-app.git
    
    ```
    

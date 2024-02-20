@@ -1,0 +1,20 @@
+.update-btn {
+  color: whitesmoke;
+  width: 80px;
+}
+
+.delete-btn {
+  margin-left: 10px;
+  color: whitesmoke;
+  width: 80px;
+}
+
+@media (max-width: 900px) {
+  .update-btn,
+  .delete-btn {
+    transform: scale(0.8);
+  }
+  .delete-btn {
+    margin-left: -1px;
+  }
+}

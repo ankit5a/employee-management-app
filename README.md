@@ -23,11 +23,12 @@ The Employee Management System is a web application built using Angular, Spring 
 
 ## Demo
 
-![Screenshot (518)](https://github.com/ankit5a/employee-management/assets/82325321/f2388d36-0613-4adb-a61f-286c2b6c731b)
+![241848696-f2388d36-0613-4adb-a61f-286c2b6c731b](https://github.com/ankit5a/employee-management-app/assets/82325321/fd3ef9c9-e8ed-4f5c-b6ca-fdfdaab70949)
 
-![Screenshot (520)](https://github.com/ankit5a/employee-management/assets/82325321/31efe6a9-849c-4145-8e32-641ab16bed69)
+![241848717-31efe6a9-849c-4145-8e32-641ab16bed69](https://github.com/ankit5a/employee-management-app/assets/82325321/9f0b1fa2-3aa4-4d5c-be4f-25309150f640)
 
-![Screenshot (519)](https://github.com/ankit5a/employee-management/assets/82325321/18c8b8ef-3d36-4bff-bacc-fa5f2bafe8e9)
+![241848735-18c8b8ef-3d36-4bff-bacc-fa5f2bafe8e9](https://github.com/ankit5a/employee-management-app/assets/82325321/5516bcf2-4f1e-4970-b1ad-9c61ca68638c)
+
 
 ## Getting Started
 
